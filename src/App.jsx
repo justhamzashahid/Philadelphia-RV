@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import HomePage from './pages/HomePage';
-import DirectionsPage from './pages/DirectionsPage';
-import GalleryPage from './pages/GalleryPage';
-import DealersPage from './pages/DealersPage';
-import CampgroundsPage from './pages/CampgroundsPage';
+import HomePage from './Pages/HomePage';
+import DirectionsPage from './Pages/DirectionsPage';
+import GalleryPage from './Pages/GalleryPage';
+import DealersPage from './Pages/DealersPage';
+import CampgroundsPage from './Pages/CampgroundsPage';
 import './App.css';
 
 function App() {
